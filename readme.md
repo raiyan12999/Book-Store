@@ -16,14 +16,6 @@ This is a simple Django-based project demonstrating the implementation of RESTfu
 - **SQLite**: Lightweight database used for data storage.
 - **Python**: Programming language for backend development.
 
-## Usage
-
-- Navigate through the provided URLs to manage books:
-  - `/` or `/home/`: View all books.
-  - `/add/`: Add a new book.
-  - `/update/<book_id>/`: Update an existing book (replace `<book_id>` with the book's ID).
-  - `/delete/<book_id>/`: Delete an existing book.
-
 ## Project Structure
 
 - **`bookstore/`**: Contains the main project settings and configuration files.
